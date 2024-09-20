@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riad Larbi</h1>
-<h3 align="center">An Embedded Systems and Artificial Intelligence student from Algeria</h3>
+<h3 align="center">An Embedded Systems and Artificial Intelligence student</h3>
 
 - 🔭 I’m currently working on **Voice Synthesis with AutoVocoder**
 
